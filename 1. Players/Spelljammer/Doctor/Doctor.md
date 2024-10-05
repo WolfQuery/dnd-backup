@@ -7,13 +7,13 @@ Class:
 Race:
   - Reborn
 Level:
-  - Level
+  - 2
 hp:
   - 9
 ac:
   - 16
 modifier:
-  - +3
+  - 3
 pasperc:
   - 14
 speed: 30ft
