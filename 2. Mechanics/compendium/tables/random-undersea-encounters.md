@@ -24,7 +24,7 @@ aliases: ["Random Undersea Encounters"]
 | 11 | Patrol of hostile [merrow](merrow.md) (coastal waters) or [sahuagin](sahuagin.md) (deep waters) |
 | 12 | Enormous kelp bed (roll again on the table to determine what's hidden in the kelp bed) |
 | 13 | Undersea cave (empty) |
-| 14 | Undersea cave ([sea hag](2.%20Mechanics/compendium/bestiary/fey/sea-hag.md) lair) |
+| 14 | Undersea cave ([sea hag](z_published%20files/2.%20Mechanics/compendium/bestiary/fey/sea-hag.md) lair) |
 | 15 | Undersea cave ([merfolk](merfolk.md) lair) |
 | 16 | Undersea cave ([giant octopus](giant-octopus.md) lair) |
 | 17 | Undersea cave ([dragon turtle](dragon-turtle.md) lair) |

@@ -18,7 +18,7 @@ aliases: ["Creating a Monster Stat Block; Monster Features"]
 | Amphibious | [Kuo-toa](kuo-toa.md) | — |
 | Angelic Weapons | [Deva](deva.md) | Increase the monster's effective per-round damage by the amount noted in the trait. |
 | Antimagic Susceptibility | [Flying sword](flying-sword.md) | — |
-| Avoidance | [Demilich](2.%20Mechanics/compendium/bestiary/undead/demilich.md) | Increase the monster's effective AC by 1. |
+| Avoidance | [Demilich](z_published%20files/2.%20Mechanics/compendium/bestiary/undead/demilich.md) | Increase the monster's effective AC by 1. |
 | Blind Senses | [Grimlock](grimlock.md) | — |
 | Blood Frenzy | [Sahuagin](sahuagin.md) | Increase the monster's effective attack bonus by 4. |
 | Breath Weapon | [Ancient black dragon](ancient-black-dragon.md) | For the purpose of determining effective damage output, assume the breath weapon hits two targets, and that each target fails its saving throw. |
@@ -26,7 +26,7 @@ aliases: ["Creating a Monster Stat Block; Monster Features"]
 | Chameleon Skin | [Troglodyte](troglodyte.md) | — |
 | Change Shape | [Ancient brass dragon](ancient-brass-dragon.md) | — |
 | Charge | [Centaur](centaur.md) | Increase the monster's damage on one attack by the amount noted in the trait. |
-| Charm | [Vampire](2.%20Mechanics/compendium/bestiary/undead/vampire.md) | — |
+| Charm | [Vampire](z_published%20files/2.%20Mechanics/compendium/bestiary/undead/vampire.md) | — |
 | Constrict | [Constrictor snake](constrictor-snake.md) | Increase the monster's effective AC by 1. |
 | Damage Absorption | [Flesh golem](flesh-golem.md) | — |
 | Damage Transfer | [Cloaker](cloaker.md) | Double the monster's effective hit points. Add one-third of the monster's hit points to its per-round damage. |
@@ -36,7 +36,7 @@ aliases: ["Creating a Monster Stat Block; Monster Features"]
 | Echolocation | [Hook horror](hook-horror.md) | — |
 | Elemental Body | [Azer](azer.md) | Increase the monster's effective per-round damage by the amount noted in the trait. |
 | Enlarge | [Duergar](duergar.md) | Increase the monster's effective per-round damage by the amount noted in the trait. |
-| Etherealness | [Night hag](2.%20Mechanics/compendium/bestiary/fiend/night-hag.md) | — |
+| Etherealness | [Night hag](z_published%20files/2.%20Mechanics/compendium/bestiary/fiend/night-hag.md) | — |
 | False Appearance | [Gargoyle](gargoyle.md) | — |
 | Fey Ancestry | [Drow](drow.md) | — |
 | Fiendish Blessing | [Cambion](cambion.md) | Apply the monster's Charisma modifier to its actual AC. |
@@ -46,7 +46,7 @@ aliases: ["Creating a Monster Stat Block; Monster Features"]
 | Hold Breath | [Lizardfolk](lizardfolk.md) | — |
 | Horrifying Visage | [Banshee](banshee.md) | See Frightful Presence. |
 | Illumination | [Flameskull](flameskull.md) | — |
-| Illusory Appearance | [Green hag](2.%20Mechanics/compendium/bestiary/fey/green-hag.md) | — |
+| Illusory Appearance | [Green hag](z_published%20files/2.%20Mechanics/compendium/bestiary/fey/green-hag.md) | — |
 | Immutable Form | [Iron golem](iron-golem.md) | — |
 | Incorporeal Movement | [Ghost](ghost.md) | — |
 | Innate Spellcasting | [Djinni](djinni.md) | See step 13 under "Creating a Monster Stat Block." |
@@ -76,13 +76,13 @@ aliases: ["Creating a Monster Stat Block; Monster Features"]
 | Redirect Attack | [Goblin boss](goblin-boss.md) | — |
 | Reel | [Roper](roper.md) | — |
 | Regeneration | [Troll](troll.md) | Increase the monster's effective hit points by 3 × the number of hit points the monster regenerates each round. |
-| Rejuvenation | [Lich](2.%20Mechanics/compendium/bestiary/undead/lich.md) | — |
+| Rejuvenation | [Lich](z_published%20files/2.%20Mechanics/compendium/bestiary/undead/lich.md) | — |
 | Relentless | [Wereboar](wereboar.md) | Increase the monster's effective hit points based on the expected challenge rating: 1-4, 7 hp: 5-10, 14 hp: 11-16, 21 hp: 17 or higher, 28 hp. |
 | Shadow Stealth | [Shadow demon](shadow-demon.md) | Increase the monster's effective AC by 4. |
 | Shapechanger | [Wererat](wererat.md) | — |
 | Siege Monster | [Earth elemental](earth-elemental.md) | — |
 | Slippery | [Kuo-toa](kuo-toa.md) | — |
-| Spellcasting | [Lich](2.%20Mechanics/compendium/bestiary/undead/lich.md) | See step 13 under "Creating a Monster Stat Block." |
+| Spellcasting | [Lich](z_published%20files/2.%20Mechanics/compendium/bestiary/undead/lich.md) | See step 13 under "Creating a Monster Stat Block." |
 | Spider Climb | [Ettercap](ettercap.md) | — |
 | Standing Leap | [Bullywug](bullywug.md) | — |
 | Steadfast | [Bearded devil](bearded-devil.md) | — |
@@ -96,7 +96,7 @@ aliases: ["Creating a Monster Stat Block; Monster Features"]
 | Terrain Camouflage | [Bullywug](bullywug.md) | — |
 | Tunneler | [Umber hulk](umber-hulk.md) | — |
 | Turn Immunity | [Revenant](revenant.md) | — |
-| Turn Resistance | [Lich](2.%20Mechanics/compendium/bestiary/undead/lich.md) | — |
+| Turn Resistance | [Lich](z_published%20files/2.%20Mechanics/compendium/bestiary/undead/lich.md) | — |
 | Two Heads | [Ettin](ettin.md) | — |
 | Undead Fortitude | [Zombie](zombie.md) | Increase the monster's effective hit points based on the expected challenge rating: 1-4, 7 hp: 5-10, 14 hp: 11-16, 21 hp: 17 or higher, 28 hp. |
 | Web | [Giant spider](giant-spider.md) | Increase the monster's effective AC by 1. |

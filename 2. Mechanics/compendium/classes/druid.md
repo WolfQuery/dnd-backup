@@ -276,9 +276,9 @@ _Source: Xanathar's Guide to Everything_
 | 0 | [Jackal](jackal.md) | — |
 | 0 | [Scorpion](scorpion.md) | — |
 | 0 | [Vulture](vulture.md) | Fly |
-| 1/8 | [Camel](2.%20Mechanics/compendium/bestiary/beast/camel.md) | — |
+| 1/8 | [Camel](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/camel.md) | — |
 | 1/8 | [Flying snake](flying-snake.md) | Fly |
-| 1/8 | [Mule](2.%20Mechanics/compendium/bestiary/beast/mule.md) | — |
+| 1/8 | [Mule](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/mule.md) | — |
 | 1/8 | [Poisonous snake](poisonous-snake.md) | Swim |
 | 1/8 | [Stirge](stirge.md) | Fly |
 | 1/4 | [Constrictor snake](constrictor-snake.md) | Swim |
@@ -309,7 +309,7 @@ _Source: Xanathar's Guide to Everything_
 | 1/8 | [Giant rat](giant-rat.md) | — |
 | 1/8 | [Giant weasel](giant-weasel.md) | — |
 | 1/8 | [Poisonous snake](poisonous-snake.md) | Swim |
-| 1/8 | [Mastiff](2.%20Mechanics/compendium/bestiary/beast/mastiff.md) | — |
+| 1/8 | [Mastiff](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/mastiff.md) | — |
 | 1/8 | [Stirge](stirge.md) | Fly |
 | 1/4 | [Boar](boar.md) | — |
 | 1/4 | [Constrictor snake](constrictor-snake.md) | Swim |
@@ -344,7 +344,7 @@ _Source: Xanathar's Guide to Everything_
 | 0 | [Cat](cat.md) | — |
 | 0 | [Deer](deer.md) | — |
 | 0 | [Eagle](eagle.md) | Fly |
-| 0 | [Goat](2.%20Mechanics/compendium/bestiary/beast/goat.md) | — |
+| 0 | [Goat](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/goat.md) | — |
 | 0 | [Hyena](hyena.md) | — |
 | 0 | [Jackal](jackal.md) | — |
 | 0 | [Vulture](vulture.md) | Fly |
@@ -360,7 +360,7 @@ _Source: Xanathar's Guide to Everything_
 | 1/4 | [Giant wolf spider](giant-wolf-spider.md) | — |
 | 1/4 | [Panther](panther.md) (leopard) | — |
 | 1/4 | [Pteranodon](pteranodon.md) | Fly |
-| 1/4 | [Riding horse](2.%20Mechanics/compendium/bestiary/beast/riding-horse.md) | — |
+| 1/4 | [Riding horse](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/riding-horse.md) | — |
 | 1/4 | [Wolf](wolf.md) | — |
 | 1/2 | [Giant goat](giant-goat.md) | — |
 | 1/2 | [Giant wasp](giant-wasp.md) | Fly |
@@ -374,7 +374,7 @@ _Source: Xanathar's Guide to Everything_
 | 2 | [Giant elk](giant-elk.md) | — |
 | 2 | [Rhinoceros](rhinoceros.md) | — |
 | 3 | [Ankylosaurus](ankylosaurus.md) | — |
-| 4 | [Elephant](2.%20Mechanics/compendium/bestiary/beast/elephant.md) | — |
+| 4 | [Elephant](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/elephant.md) | — |
 | 5 | [Triceratops](triceratops.md) | — |
 ^grassland
 
@@ -384,14 +384,14 @@ _Source: Xanathar's Guide to Everything_
 |----|-------|----------|
 | 0 | [Baboon](baboon.md) | — |
 | 0 | [Eagle](eagle.md) | Fly |
-| 0 | [Goat](2.%20Mechanics/compendium/bestiary/beast/goat.md) | — |
+| 0 | [Goat](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/goat.md) | — |
 | 0 | [Hyena](hyena.md) | — |
 | 0 | [Raven](raven.md) | Fly |
 | 0 | [Vulture](vulture.md) | Fly |
 | 1/8 | [Blood hawk](blood-hawk.md) | Fly |
 | 1/8 | [Giant weasel](giant-weasel.md) | — |
-| 1/8 | [Mastiff](2.%20Mechanics/compendium/bestiary/beast/mastiff.md) | — |
-| 1/8 | [Mule](2.%20Mechanics/compendium/bestiary/beast/mule.md) | — |
+| 1/8 | [Mastiff](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/mastiff.md) | — |
+| 1/8 | [Mule](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/mule.md) | — |
 | 1/8 | [Poisonous snake](poisonous-snake.md) | Swim |
 | 1/8 | [Stirge](stirge.md) | Fly |
 | 1/4 | [Axe beak](axe-beak.md) | — |
@@ -416,7 +416,7 @@ _Source: Xanathar's Guide to Everything_
 | CR | Beast | Fly/Swim |
 |----|-------|----------|
 | 0 | [Eagle](eagle.md) | Fly |
-| 0 | [Goat](2.%20Mechanics/compendium/bestiary/beast/goat.md) | — |
+| 0 | [Goat](z_published%20files/2.%20Mechanics/compendium/bestiary/beast/goat.md) | — |
 | 1/8 | [Blood hawk](blood-hawk.md) | Fly |
 | 1/8 | [Stirge](stirge.md) | Fly |
 | 1/4 | [Pteranodon](pteranodon.md) | Fly |

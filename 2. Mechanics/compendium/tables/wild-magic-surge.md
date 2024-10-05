@@ -37,7 +37,7 @@ aliases: ["Wild Magic Surge"]
 | 41-42 | You turn into a potted plant until the start of your next turn. While a plant, you are [incapacitated](rules/conditions.md#incapacitated) and have vulnerability to all damage. If you drop to 0 hit points, your pot breaks, and your form reverts. |
 | 43-44 | For the next minute, you can teleport up to 20 feet as a bonus action on each of your turns. |
 | 45-46 | You cast [levitate](levitate.md) on yourself. |
-| 47-48 | A [unicorn](2.%20Mechanics/compendium/bestiary/celestial/unicorn.md) controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later. |
+| 47-48 | A [unicorn](z_published%20files/2.%20Mechanics/compendium/bestiary/celestial/unicorn.md) controlled by the DM appears in a space within 5 feet of you, then disappears 1 minute later. |
 | 49-50 | You can't speak for the next minute. Whenever you try, pink bubbles float out of your mouth. |
 | 51-52 | A spectral shield hovers near you for the next minute, granting you a +2 bonus to AC and immunity to [magic missile](magic-missile.md). |
 | 53-54 | You are immune to being intoxicated by alcohol for the next `5d6` days. |

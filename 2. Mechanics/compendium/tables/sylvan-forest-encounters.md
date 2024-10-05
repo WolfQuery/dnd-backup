@@ -28,7 +28,7 @@ aliases: ["Sylvan Forest Encounters"]
 | 15 | A magical plant with `2d4` glowing berries. A creature that ingests a berry becomes [invisible](rules/conditions.md#invisible) for 1 hour, or until it attacks or casts a spell. Once picked, a berry loses its magic after 12 hours. Berries regrow at midnight, but if all its berries are picked, the plant becomes nonmagical and grows no more berries. |
 | 16 | An elven tune carried on a gentle breeze |
 | 17 | `1d4` [orange](faerie-dragon-orange.md) (75%) or [blue](faerie-dragon-blue.md) (25%) faerie dragons |
-| 18 | 1 [druid](2.%20Mechanics/compendium/bestiary/humanoid/druid.md) (elf). The [druid](2.%20Mechanics/compendium/bestiary/humanoid/druid.md) is initially indifferent toward the party but becomes friendly if the characters agree to rid the forest of its gnoll infestation. |
+| 18 | 1 [druid](z_published%20files/2.%20Mechanics/compendium/bestiary/humanoid/druid.md) (elf). The [druid](z_published%20files/2.%20Mechanics/compendium/bestiary/humanoid/druid.md) is initially indifferent toward the party but becomes friendly if the characters agree to rid the forest of its gnoll infestation. |
 | 19 | 1 [treant](treant.md). The [treant](treant.md) is friendly if the party includes one or more elves or is accompanied by a visible fey creature. The [treant](treant.md) is hostile if the characters are carrying open flames. Otherwise, it is indifferent and doesn't announce its presence as the characters pass by. |
-| 20 | 1 [unicorn](2.%20Mechanics/compendium/bestiary/celestial/unicorn.md) |
+| 20 | 1 [unicorn](z_published%20files/2.%20Mechanics/compendium/bestiary/celestial/unicorn.md) |
 ^sylvan-forest-encounters

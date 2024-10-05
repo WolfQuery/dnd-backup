@@ -17,5 +17,5 @@ aliases: ["Size Categories"]
 | Medium | 5 by 5 ft. | [Orc](orc.md), [werewolf](werewolf.md) |
 | Large | 10 by 10 ft. | [Hippogriff](hippogriff.md), [ogre](ogre.md) |
 | Huge | 15 by 15 ft. | [Fire giant](fire-giant.md), [treant](treant.md) |
-| Gargantuan | 20 by 20 ft. or larger | [Kraken](2.%20Mechanics/compendium/bestiary/monstrosity/kraken.md), [purple worm](purple-worm.md) |
+| Gargantuan | 20 by 20 ft. or larger | [Kraken](z_published%20files/2.%20Mechanics/compendium/bestiary/monstrosity/kraken.md), [purple worm](purple-worm.md) |
 ^size-categories

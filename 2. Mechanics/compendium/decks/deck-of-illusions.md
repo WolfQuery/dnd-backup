@@ -23,21 +23,21 @@ The illusion lasts until its card is moved or the illusion is dispelled. When th
 | 1 | [Red dragon](adult-red-dragon.md) |
 | 2 | [Knight](knight.md) and four [guards](guard.md) |
 | 3 | [Succubus/Incubus](succubus.md) |
-| 4 | [Druid](2.%20Mechanics/compendium/bestiary/humanoid/druid.md) |
+| 4 | [Druid](z_published%20files/2.%20Mechanics/compendium/bestiary/humanoid/druid.md) |
 | 5 | [Cloud giant](cloud-giant.md) |
 | 6 | [Ettin](ettin.md) |
 | 7 | [Bugbear](bugbear.md) |
 | 8 | [Goblin](goblin.md) |
-| 9 | [Beholder](2.%20Mechanics/compendium/bestiary/aberration/beholder.md) |
+| 9 | [Beholder](z_published%20files/2.%20Mechanics/compendium/bestiary/aberration/beholder.md) |
 | 10 | [Archmage](archmage.md) and [mage](mage.md) apprentice |
-| 11 | [Night hag](2.%20Mechanics/compendium/bestiary/fiend/night-hag.md) |
+| 11 | [Night hag](z_published%20files/2.%20Mechanics/compendium/bestiary/fiend/night-hag.md) |
 | 12 | [Assassin](assassin.md) |
 | 13 | [Fire giant](fire-giant.md) |
 | 14 | [Ogre mage](oni.md) |
 | 15 | [Gnoll](gnoll.md) |
 | 16 | [Kobold](kobold.md) |
-| 17 | [Lich](2.%20Mechanics/compendium/bestiary/undead/lich.md) |
-| 18 | [Priest](priest.md) and two [acolytes](2.%20Mechanics/compendium/bestiary/humanoid/acolyte.md) |
+| 17 | [Lich](z_published%20files/2.%20Mechanics/compendium/bestiary/undead/lich.md) |
+| 18 | [Priest](priest.md) and two [acolytes](z_published%20files/2.%20Mechanics/compendium/bestiary/humanoid/acolyte.md) |
 | 19 | [Medusa](medusa.md) |
 | 20 | [Veteran](veteran.md) |
 | 21 | [Frost giant](frost-giant.md) |

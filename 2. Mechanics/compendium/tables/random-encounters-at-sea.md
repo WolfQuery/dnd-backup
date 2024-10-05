@@ -26,5 +26,5 @@ aliases: ["Random Encounters at Sea"]
 | 17 | Iceberg (easily avoided if seen from a distance) |
 | 18 | [Sahuagin](sahuagin.md) boarding party |
 | 19 | NPC in the water (clinging to floating debris) |
-| 20 | Sea monster (such as a [dragon turtle](dragon-turtle.md) or [kraken](2.%20Mechanics/compendium/bestiary/monstrosity/kraken.md)) |
+| 20 | Sea monster (such as a [dragon turtle](dragon-turtle.md) or [kraken](z_published%20files/2.%20Mechanics/compendium/bestiary/monstrosity/kraken.md)) |
 ^random-encounters-at-sea
