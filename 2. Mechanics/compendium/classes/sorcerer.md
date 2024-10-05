@@ -128,7 +128,7 @@ How do you feel about the magical power coursing through you? Do you embrace it,
 
 #### Quick Build
 
-You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [light](light.md), [prestidigitation](prestidigitation.md), [ray of frost](ray-of-frost.md), and [shocking grasp](shocking-grasp.md) cantrips, along with the 1st-level spells [shield](2.%20Mechanics/compendium/spells/shield.md) and [magic missile](magic-missile.md).
+You can make a sorcerer quickly by following these suggestions. First, Charisma should be your highest ability score, followed by Constitution. Second, choose the hermit background. Third, choose the [light](light.md), [prestidigitation](prestidigitation.md), [ray of frost](ray-of-frost.md), and [shocking grasp](shocking-grasp.md) cantrips, along with the 1st-level spells [shield](z_published%20files/2.%20Mechanics/compendium/spells/shield.md) and [magic missile](magic-missile.md).
 
 > [!quote]- A quote from Hennet, scion of Tiamat  
 > 
