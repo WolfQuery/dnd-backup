@@ -206,10 +206,10 @@ CP | SP | EP | GP | PP |
 	- [[manacles]]
 	- [[steel-mirror]]
 	- [[oil-flask]]
-	- [[tinderbox]] 2x
+	- [[z_published files/2. Mechanics/compendium/items/tinderbox|tinderbox]] 2x
 	- [[torch]] 13x
 
-- [[explorers-pack|Explorer's Pack]]
+- [[compendium/items/explorers-pack|Explorer's Pack]]
 	- [[backpack]]
 	- [[bedroll]]
 	- [[mess-kit]]
