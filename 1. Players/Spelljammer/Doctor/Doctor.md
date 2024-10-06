@@ -210,7 +210,7 @@ CP | SP | EP | GP | PP |
 	- [[torch]] 13x
 
 - [[compendium/items/explorers-pack|Explorer's Pack]]
-	- [[backpack]]
+	- [[compendium/items/backpack]]
 	- [[bedroll]]
 	- [[mess-kit]]
 	- [[rations-1-day|Rations (1 day)]] 10x
