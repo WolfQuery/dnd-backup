@@ -1,0 +1,8 @@
+---
+sessionstatus: Occured
+type: Session Journal
+sessionDate: 2024-09-11
+players: 5
+Status: ✅
+OneLiner: Planning of the campaign.
+---
