@@ -1,24 +1,25 @@
 ---
 Player:
-  - Varsi Kossuth
+  - Finn
 Class:
   - Druid
 Race:
   - Satyr
 Level:
-  - 1
+  - 2
 hp:
   - 10
 ac:
   - 12
 modifier:
-  - +3
+  - 3
 pasperc:
   - 15
 speed: 30ft
 Role: Player
 Status: Active
-PlayerKnownLanguages: Common
+PlayerKnownLanguages:
+  - Common
 tags:
 ---
 ´´´
@@ -32,15 +33,15 @@ Adventure_Diary:: [[XXX]]
 %%
 
 # Varsi Kossuth
-> (Description:: Wildfire Druid, kinda fruity)
+> (Description:: )
 
-![[Fire Weasel of Varsi Kossuth.jpg]] <i>[]()</i>
+![[Varsi Kossuth_portrait.jpg]] <i>[]()</i>
 
 ||
 ----|:---:|
-	**Class** | [[2. Mechanics/Classes/druid|druid]]
+	**Class** | Druid
 **Level** | 2
-**Race** | [[satyr]]
+**Race** | Satyr
 **Alignment** | Chaotic Good
 **Background** | XXX
 
