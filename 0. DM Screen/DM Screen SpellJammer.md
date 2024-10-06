@@ -36,7 +36,7 @@ WHERE (Status = "Active")
 ## Session Journals
 ```dataview
 TABLE WITHOUT ID link(file.name) AS "Session Date", Status, players, OneLiner
-from "2. Session Journals/Misty Forest"
+from "z_published files/2. Session Journals/Spelljammer"
 where (type = "Session Journal")
 SORT file.name DESC
 ```
