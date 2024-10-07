@@ -237,7 +237,7 @@ CP | SP | EP | GP | PP |
 	- [[manacles]]
 	- [[steel-mirror]]
 	- [[oil-flask]]
-	- [[z_published files/2. Mechanics/compendium/items/tinderbox|tinderbox]] 2x
+	- [[tinderbox|Tinderbox]] 2x
 	- [[torch]] 13x
 
 - [[compendium/items/explorers-pack|Explorer's Pack]]
