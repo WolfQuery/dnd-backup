@@ -140,13 +140,15 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 | Sickle           | `dice: 1d20 + 6` | `dice: 1d4 + 4` | Slashing       |
 | Dagger (offhand) | `dice: 1d20 + 6` | `dice: 1d4`     | Piercing       |
 | Dagger           | `dice: 1d20 + 6` | `dice: 1d4 + 4` | Slashing       |
-| Unarmed Strike                 | `dice: 1d20 + 6`                 |  `dice: 1d4+4`               | Bludgeoning               |
+| Unarmed Strike   | `dice: 1d20 + 6` | `dice: 1d4+4`   | Bludgeoning    |
+| Spell Attack     | `dice: 1d20+5`   | XXX             | XXX            |
+| Spell Save       | **13**           | XXX             | XXX            |
 
 ## Spell slots
 |  Level  | Spell Slots | Spell Slots Max | Prepared Spell |
 | :-----: | :---------: | :-------------: | -------------- |
 | cantrip |      X      |        3        | 3              |
-|   1st   |      2      |        2        |                |
+|   1st   |      2      |        2        | 2              |
 |   2nd   |      0      |        0        |                |
 
 ## Spells
