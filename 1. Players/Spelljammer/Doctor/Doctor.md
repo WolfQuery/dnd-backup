@@ -150,20 +150,20 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 |   2nd   |      0      |        0        |                |
 
 ## Spells
-| Name                                           | Level   | Concentration | Duration       | Atk/Save | Range  | Target                                         |
-| ---------------------------------------------- | ------- | ------------- | -------------- | -------- | ------ | ---------------------------------------------- |
-| [[toll-the-dead-xge\|Toll the Dead]]           | Cantrip | No            | Instantaneous  | Wis save | 60 ft  | 1 creature or 2 if within 5ft                  |
-| [[thaumaturgy\|Thaumaturgy]]                   | Cantrip | No            | Up to 1 minute | None     | 30 ft  | Roleplay and flare                             |
-| [[hand-of-radiance\|Hand of Radiance]]<br><br> | Cantrip | No            | Instantaneous  | Con save | 5 ft   | Each creature of my choice within a 5ft radius |
-| Spell Name 4                                   | 5th     | No            | 24 hours       | None     | Self   | Short description of the spell 4               |
-| Spell Name 5                                   | 4th     | Yes           | 1 hour         | Con save | 120 ft | Short description of the spell 5               |
-| Spell Name 6                                   | 1st     | No            | 1 minute       | None     | 30 ft  | Short description of the spell 6               |
-| Spell Name 7                                   | 6th     | Yes           | 1 round        | Str save | 60 ft  | Short description of the spell 7               |
-| Spell Name 8                                   | 3rd     | No            | 10 mins        | None     | Touch  | Short description of the spell 8               |
-| Spell Name 9                                   | 2nd     | Yes           | 1 hour         | Wis save | 30 ft  | Short description of the spell 9               |
-| Spell Name 10                                  | 7th     | No            | 1 round        | Con save | 120 ft | Short description of the spell 10              |
-| Spell Name 11                                  | 2nd     | No            | 1 hour         | None     | 30 ft  | Short description of the spell 11              |
-| Spell Name 12                                  | 4th     | Yes           | 1 minute       | Str save | 60 ft  | Short description of the spell 12              |
+| Name                                                     | Level   | Concentration | Duration         | Atk/Save           | Range  | Target                                         |
+| -------------------------------------------------------- | ------- | ------------- | ---------------- | ------------------ | ------ | ---------------------------------------------- |
+| [[toll-the-dead-xge\|Toll the Dead]]                     | Cantrip | No            | Instantaneous    | Wis save           | 60 ft  | 1 creature or 2 if within 5ft                  |
+| [[thaumaturgy\|Thaumaturgy]]                             | Cantrip | No            | Up to 1 minute   | None               | 30 ft  | Roleplay and flare                             |
+| [[hand-of-radiance\|Hand of Radiance]]<br><br>           | Cantrip | No            | Instantaneous    | Con save           | 5 ft   | Each creature of my choice within a 5ft radius |
+| [[inflict-wounds\|Inflict Wounds]]                       | 1st     | No            | Instantaneous    | Melee spell attack | Touch  | Touch a creature and deal 3d10 necrotic damage |
+| [[detect-poison-and-disease\|Detect Poison and Disease]] | 1st     | Yes           | up to 10 minutes | None               | 30ft   | Detect all Poison and Disease within 30ft      |
+| Spell Name 6                                             | 1st     | No            | 1 minute         | None               | 30 ft  | Short description of the spell 6               |
+| Spell Name 7                                             | 6th     | Yes           | 1 round          | Str save           | 60 ft  | Short description of the spell 7               |
+| Spell Name 8                                             | 3rd     | No            | 10 mins          | None               | Touch  | Short description of the spell 8               |
+| Spell Name 9                                             | 2nd     | Yes           | 1 hour           | Wis save           | 30 ft  | Short description of the spell 9               |
+| Spell Name 10                                            | 7th     | No            | 1 round          | Con save           | 120 ft | Short description of the spell 10              |
+| Spell Name 11                                            | 2nd     | No            | 1 hour           | None               | 30 ft  | Short description of the spell 11              |
+| Spell Name 12                                            | 4th     | Yes           | 1 minute         | Str save           | 60 ft  | Short description of the spell 12              |
 
 # Abilities
 ## [[cleric|Cleric]]; [[cleric-death-domain|Death Domain]]
