@@ -143,26 +143,27 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 | Unarmed Strike                 | `dice: 1d20 + 6`                 |  `dice: 1d4+4`               | Bludgeoning               |
 
 ## Spell slots
-|  Level  | Spell Slots | Prepared Spells |
-| :-----: | :---------: | :-------------: |
-| cantrip |      X      |        3        |
-|   1st   |      2      |        X        |
+|  Level  | Spell Slots | Spell Slots Max | Prepared Spell |
+| :-----: | :---------: | :-------------: | -------------- |
+| cantrip |      X      |        3        | 3              |
+|   1st   |      2      |        2        |                |
+|   2nd   |      0      |        0        |                |
 
 ## Spells
-| Name                 | Level | Concentration | Duration | Atk/Save | Range | Description                         |
-|----------------------|-------|---------------|----------|----------|-------|-------------------------------------|
-| Spell Name 1         | 1st   | Yes           | 1 hour   | Dex save | 60 ft | Short description of the spell 1   |
-| Spell Name 2         | 3rd   | No            | 10 mins  | None     | Touch | Short description of the spell 2   |
-| Spell Name 3         | 2nd   | Yes           | 1 round  | Wis save | 30 ft | Short description of the spell 3   |
-| Spell Name 4         | 5th   | No            | 24 hours | None     | Self  | Short description of the spell 4   |
-| Spell Name 5         | 4th   | Yes           | 1 hour   | Con save | 120 ft| Short description of the spell 5   |
-| Spell Name 6         | 1st   | No            | 1 minute | None     | 30 ft | Short description of the spell 6   |
-| Spell Name 7         | 6th   | Yes           | 1 round  | Str save | 60 ft | Short description of the spell 7   |
-| Spell Name 8         | 3rd   | No            | 10 mins  | None     | Touch | Short description of the spell 8   |
-| Spell Name 9         | 2nd   | Yes           | 1 hour   | Wis save | 30 ft | Short description of the spell 9   |
-| Spell Name 10        | 7th   | No            | 1 round  | Con save | 120 ft| Short description of the spell 10  |
-| Spell Name 11        | 2nd   | No            | 1 hour   | None     | 30 ft | Short description of the spell 11  |
-| Spell Name 12        | 4th   | Yes           | 1 minute | Str save | 60 ft | Short description of the spell 12  |
+| Name                                 | Level   | Concentration | Duration      | Atk/Save | Range  | Target                            |
+| ------------------------------------ | ------- | ------------- | ------------- | -------- | ------ | --------------------------------- |
+| [[toll-the-dead-xge\|Toll the Dead]] | Cantrip | No            | Instantaneous | Wis save | 60 ft  | 1 creature or 2 if within 5ft     |
+|                                      | 3rd     | No            | 10 mins       | None     | Touch  | Short description of the spell 2  |
+| Spell Name 3                         | 2nd     | Yes           | 1 round       | Wis save | 30 ft  | Short description of the spell 3  |
+| Spell Name 4                         | 5th     | No            | 24 hours      | None     | Self   | Short description of the spell 4  |
+| Spell Name 5                         | 4th     | Yes           | 1 hour        | Con save | 120 ft | Short description of the spell 5  |
+| Spell Name 6                         | 1st     | No            | 1 minute      | None     | 30 ft  | Short description of the spell 6  |
+| Spell Name 7                         | 6th     | Yes           | 1 round       | Str save | 60 ft  | Short description of the spell 7  |
+| Spell Name 8                         | 3rd     | No            | 10 mins       | None     | Touch  | Short description of the spell 8  |
+| Spell Name 9                         | 2nd     | Yes           | 1 hour        | Wis save | 30 ft  | Short description of the spell 9  |
+| Spell Name 10                        | 7th     | No            | 1 round       | Con save | 120 ft | Short description of the spell 10 |
+| Spell Name 11                        | 2nd     | No            | 1 hour        | None     | 30 ft  | Short description of the spell 11 |
+| Spell Name 12                        | 4th     | Yes           | 1 minute      | Str save | 60 ft  | Short description of the spell 12 |
 
 # Abilities
 ## [[cleric|Cleric]]; [[cleric-death-domain|Death Domain]]
@@ -171,13 +172,40 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts **a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.**
 
 ---
-## [[monk|Monk]]; Mercy Killer
+##### Level 2
+###### [[cleric#Channel Divinity (Level 2)|Channel Divinity]]
+At 2nd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Turn Undead and an effect determined by your domain. Some domains grant you additional effects as you advance in levels, as noted in the domain description.
+
+When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your cleric spell save DC.
+
+Beginning at 6th level, you can use your Channel Divinity twice between rests, and beginning at 18th level, you can use it three times between rests. When you finish a short or long rest, you regain your expended uses.
+
+---
+###### [[cleric#Channel Divinity Turn Undead (Level 2)|Channel Divinity: Turn Undead]]
+As an action, you present your holy symbol and speak a prayer censuring the undead. Each undead that can see or hear you within 30 feet of you must make a Wisdom saving throw. If the creature fails its saving throw, it is turned for 1 minute or until it takes any damage.
+
+A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you. It also can't take reactions. For its action, it can use only the [Dash](app://obsidian.md/z_compendium/rules/actions.md#Dash) action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the [Dodge](app://obsidian.md/z_compendium/rules/actions.md#Dodge) action.
+
+---
+###### [[cleric#Channel Divinity Harness Divine Power (Level 2)|Channel Divinity: Harness Divine Power]]
+You can expend a use of your Channel Divinity to fuel your spells. As a bonus action, you touch your holy symbol, utter a prayer, and regain one expended spell slot, the level of which can be no higher than half your proficiency bonus (rounded up). The number of times you can use this feature is based on the level you've reached in this class: 2nd level, once; 6th level, twice; and 18th level, thrice. You regain all expended uses when you finish a long rest.
+
+---
+###### [[cleric-death-domain#Channel Divinity Touch of Death (Level 2)|Channel Divinity: Touch of Death]]
+Starting at 2nd level, the cleric can use Channel Divinity to destroy another creature's life force by touch.
+
+When the cleric hits a creature with a melee attack, the cleric can use Channel Divinity to deal extra necrotic damage to the target. The damage equals 5 + twice his or her cleric level.
+
+---
+## [[monk|Monk]]; Way of Mercy
 ##### Level 1
 ###### [[monk#Unarmored Defense (Level 1)|Unarmored Defense]]
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, **your AC equals 10 + your Dexterity modifier + your Wisdom modifier.**
 
 ---
-###### [[monk#Martial Arts (Level 1)|Martial Arts]]
+	###### [[monk#Martial Arts (Level 1)|Martial Arts]]
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [shortswords](app://obsidian.md/compendium/items/shortsword.md) and any simple melee weapons that don't have the two-handed or heavy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [shield](app://obsidian.md/compendium/items/shield.md).
@@ -221,7 +249,7 @@ CP | SP | EP | GP | PP |
 - [[sickle]]
 - [[dagger]]
 - [[leather-armor|Leather Armor]]
-- [[2. Mechanics/compendium/items/shield|shield]]
+- [[z_compendium/items/shield|shield]]
 
 
 # Personality
