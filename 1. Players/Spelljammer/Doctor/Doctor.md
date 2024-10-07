@@ -109,11 +109,12 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 ---
 ##### Ki 
 **(0/0)**
-| Type             | Cost                  | Effect                       |
-| ---------------- | --------------------- | ---------------------------- |
-| Flurry of Blows  | 1 ki + 1 bonus action | 2 extra punches after attack |
 
----
+|                         Type                          | Cost |    Action    | Effect                              |
+| :---------------------------------------------------: | :--: | :----------: | ----------------------------------- |
+|  [[monk#Flurry of Blows (Level 2)\|Flurry of Blows]]  | 1ki  | Bonus action | 2 extra punches                     |
+| [[monk#Step of the Wind (Level 2)\|Step of the Wind]] | 1ki  | Bonus action | dash or disengage as a bonus action |
+|  [[monk#Patient Defense (Level 2)\|Patient Defense]]  | 1ki  | Bonus action | dodge as a bonus action             |
 
 
 
