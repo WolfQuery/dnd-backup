@@ -154,14 +154,15 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 |   2nd   |      0      |        0        |                |
 
 ## Spells
-| Name                                                     | Level   | Concentration | Duration         | Atk/Save           | Range | Target                                         |
-| -------------------------------------------------------- | ------- | ------------- | ---------------- | ------------------ | ----- | ---------------------------------------------- |
-| [[toll-the-dead-xge\|Toll the Dead]]                     | Cantrip | No            | Instantaneous    | Wis save           | 60 ft | 1 creature or 2 if within 5ft                  |
-| [[thaumaturgy\|Thaumaturgy]]                             | Cantrip | No            | Up to 1 minute   | None               | 30 ft | Roleplay and flare                             |
-| [[hand-of-radiance\|Hand of Radiance]]<br><br>           | Cantrip | No            | Instantaneous    | Con save           | 5 ft  | Each creature of my choice within a 5ft radius |
-| [[inflict-wounds\|Inflict Wounds]]                       | 1st     | No            | Instantaneous    | Melee spell attack | Touch | Touch a creature and deal 3d10 necrotic damage |
-| [[detect-poison-and-disease\|Detect Poison and Disease]] | 1st     | Yes           | up to 10 minutes | None               | 30ft  | Detect all Poison and Disease within 30ft      |
-| [[cure-wounds\|Cure Wounds]]                             | 1st     | No            | Instantaneous    | None               | Touch | Heal a creature for 1d8+spell casting          |
+| Name                                                     | Level   | Concentration | Duration         | Atk/Save           | Range | Target                                             |
+| -------------------------------------------------------- | ------- | ------------- | ---------------- | ------------------ | ----- | -------------------------------------------------- |
+| [[toll-the-dead-xge\|Toll the Dead]]                     | Cantrip | No            | Instantaneous    | Wis save           | 60 ft | 1 creature or 2 if within 5ft                      |
+| [[thaumaturgy\|Thaumaturgy]]                             | Cantrip | No            | Up to 1 minute   | None               | 30 ft | Roleplay and flare                                 |
+| [[hand-of-radiance\|Hand of Radiance]]<br><br>           | Cantrip | No            | Instantaneous    | Con save           | 5 ft  | Each creature of my choice within a 5ft radius     |
+| [[inflict-wounds\|Inflict Wounds]]                       | 1st     | No            | Instantaneous    | Melee spell attack | Touch | Touch a creature and deal 3d10 necrotic damage     |
+| [[detect-poison-and-disease\|Detect Poison and Disease]] | 1st     | Yes           | up to 10 minutes | None               | 30ft  | Detect all Poison and Disease within 30ft          |
+| [[cure-wounds\|Cure Wounds]]                             | 1st     | No            | Instantaneous    | None               | Touch | Heal a creature for 1d8+spell casting              |
+| [[command\|Command]]                                     | 1st     | No            | 1 round          | Wis save           | 60ft  | Issue a non-harmful one word command to a creature |
 
 
 # Abilities

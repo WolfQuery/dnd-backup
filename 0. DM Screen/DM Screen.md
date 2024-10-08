@@ -1,10 +1,12 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## ![[RandomGensTitleBar.png]]
 
-- [ ] "Add yours here using I-Frames or Custom Frames plugin"
+- [ ] `frame: https://www.dnd-compendium.com/dm-resources/generators`
 
 
 ## ![[CheckTitleBar.png]]
@@ -131,24 +133,24 @@ kanban-plugin: board
 
 ## ![[SkillsTitleBar.png]]
 
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Acrobatics|Acrobatics]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Animal Handling|Animal Handling]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Arcana|Arcana]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Athletics|Athletics]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Deception|Deception]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#History|History]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Insight|Insight]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Intimidation|Intimidation]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Investigation|Investigation]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Medicine|Medicine]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Nature|Nature]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Perception|Perception]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Performance|Performance]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Persuasion|Persuasion]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Religion|Religion]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Sleight of Hand|Sleight of Hand]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Stealth|Stealth]]
-- [ ] [[z_published files/2-Mechanics/CLI/rules/skills#Survival|Survival]]
+- [ ] [[Skills#Acrobatics|Acrobatics]]
+- [ ] [[Skills#Animal Handling|Animal Handling]]
+- [ ] [[Skills#Arcana|Arcana]]
+- [ ] [[Skills#Athletics|Athletics]]
+- [ ] [[Skills#Deception|Deception]]
+- [ ] [[Skills#History|History]]
+- [ ] [[Skills#Insight|Insight]]
+- [ ] [[Skills#Intimidation|Intimidation]]
+- [ ] [[Skills#Investigation|Investigation]]
+- [ ] [[Skills#Medicine|Medicine]]
+- [ ] [[Skills#Nature|Nature]]
+- [ ] [[Skills#Perception|Perception]]
+- [ ] [[Skills#Performance|Performance]]
+- [ ] [[Skills#Persuasion|Persuasion]]
+- [ ] [[Skills#Religion|Religion]]
+- [ ] [[Skills#Sleight of Hand|Sleight of Hand]]
+- [ ] [[Skills#Stealth|Stealth]]
+- [ ] [[Skills#Survival|Survival]]
 
 
 
