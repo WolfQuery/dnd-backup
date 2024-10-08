@@ -4,7 +4,7 @@ banner_y: 0.38
 banner_lock: true
 text: DM Screen
 ---
-| ![[Sky Chart.jpg\|hsmall+wsmall+center]] | ![[Imagename2.png\|hsmall+wsmall+center]] | ![[Imagename3.png\|hsmall+wsmall+center]] | ![[Imagename4.png\|hsmall+wsmall+center]] |     |
+| ![[Sky Chart.jpg\|center+wsmall+hsmall]] | ![[Imagename2.png\|hsmall+wsmall+center]] | ![[Imagename3.png\|hsmall+wsmall+center]] | ![[Imagename4.png\|hsmall+wsmall+center]] |     |
 | ------------------ | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | --- |
 | [[Map]]      | [[Sess]]                             | [[Notename3]]                             | [[Notename4\|Rename Note Name]]           |     |
 
