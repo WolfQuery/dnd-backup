@@ -37,7 +37,7 @@ Adventure_Diary:: [[Doctor's Notes]]
 
 # Julien du Dernier Souffl
 > (Description:: SCP-049)
-> gender: agender
+> gender: agender; Otherkin
 > pronouns: They/Them/It/Its
 > orientation: aro/ace
 
@@ -107,15 +107,6 @@ Senses | \# |
 You temporarily remember sporadic glimpses of the past, perhaps faded memories from your previous life or cryptic knowledge from being returned to life. When you make an ability check that uses a skill, **you can roll a d6 and add the number rolled to the check**. **You can use this feature a number of times equal to your proficiency bonus**, and you regain all expended uses when you finish a long rest.
 
 ---
-##### Ki 
-**(0/0)**
-
-|                         Type                          | Cost |    Action    | Effect                              |
-| :---------------------------------------------------: | :--: | :----------: | ----------------------------------- |
-|  [[monk#Flurry of Blows (Level 2)\|Flurry of Blows]]  | 1ki  | Bonus action | 2 extra punches                     |
-| [[monk#Step of the Wind (Level 2)\|Step of the Wind]] | 1ki  | Bonus action | dash or disengage as a bonus action |
-|  [[monk#Patient Defense (Level 2)\|Patient Defense]]  | 1ki  | Bonus action | dodge as a bonus action             |
-
 
 
 ## Proficiencies
@@ -144,6 +135,16 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 | Unarmed Strike   | `dice: 1d20 + 6` | `dice: 1d4+4`   | Bludgeoning    |
 | Spell Attack     | `dice: 1d20+5`   | XXX             | XXX            |
 | Spell Save       | **13**           | XXX             | XXX            |
+| Spell modifier   | (Wis) +3         |                 |                |
+
+##### Ki 
+**(0/0)**
+
+|                         Type                          | Cost |    Action    | Effect                              |
+| :---------------------------------------------------: | :--: | :----------: | ----------------------------------- |
+|  [[monk#Flurry of Blows (Level 2)\|Flurry of Blows]]  | 1ki  | Bonus action | 2 extra punches                     |
+| [[monk#Step of the Wind (Level 2)\|Step of the Wind]] | 1ki  | Bonus action | dash or disengage as a bonus action |
+|  [[monk#Patient Defense (Level 2)\|Patient Defense]]  | 1ki  | Bonus action | dodge as a bonus action             |
 
 ## Spell slots
 |  Level  | Spell Slots | Spell Slots Max | Prepared Spell |
@@ -153,20 +154,15 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 |   2nd   |      0      |        0        |                |
 
 ## Spells
-| Name                                                     | Level   | Concentration | Duration         | Atk/Save           | Range  | Target                                         |
-| -------------------------------------------------------- | ------- | ------------- | ---------------- | ------------------ | ------ | ---------------------------------------------- |
-| [[toll-the-dead-xge\|Toll the Dead]]                     | Cantrip | No            | Instantaneous    | Wis save           | 60 ft  | 1 creature or 2 if within 5ft                  |
-| [[thaumaturgy\|Thaumaturgy]]                             | Cantrip | No            | Up to 1 minute   | None               | 30 ft  | Roleplay and flare                             |
-| [[hand-of-radiance\|Hand of Radiance]]<br><br>           | Cantrip | No            | Instantaneous    | Con save           | 5 ft   | Each creature of my choice within a 5ft radius |
-| [[inflict-wounds\|Inflict Wounds]]                       | 1st     | No            | Instantaneous    | Melee spell attack | Touch  | Touch a creature and deal 3d10 necrotic damage |
-| [[detect-poison-and-disease\|Detect Poison and Disease]] | 1st     | Yes           | up to 10 minutes | None               | 30ft   | Detect all Poison and Disease within 30ft      |
-| Spell Name 6                                             | 1st     | No            | 1 minute         | None               | 30 ft  | Short description of the spell 6               |
-| Spell Name 7                                             | 6th     | Yes           | 1 round          | Str save           | 60 ft  | Short description of the spell 7               |
-| Spell Name 8                                             | 3rd     | No            | 10 mins          | None               | Touch  | Short description of the spell 8               |
-| Spell Name 9                                             | 2nd     | Yes           | 1 hour           | Wis save           | 30 ft  | Short description of the spell 9               |
-| Spell Name 10                                            | 7th     | No            | 1 round          | Con save           | 120 ft | Short description of the spell 10              |
-| Spell Name 11                                            | 2nd     | No            | 1 hour           | None               | 30 ft  | Short description of the spell 11              |
-| Spell Name 12                                            | 4th     | Yes           | 1 minute         | Str save           | 60 ft  | Short description of the spell 12              |
+| Name                                                     | Level   | Concentration | Duration         | Atk/Save           | Range | Target                                         |
+| -------------------------------------------------------- | ------- | ------------- | ---------------- | ------------------ | ----- | ---------------------------------------------- |
+| [[toll-the-dead-xge\|Toll the Dead]]                     | Cantrip | No            | Instantaneous    | Wis save           | 60 ft | 1 creature or 2 if within 5ft                  |
+| [[thaumaturgy\|Thaumaturgy]]                             | Cantrip | No            | Up to 1 minute   | None               | 30 ft | Roleplay and flare                             |
+| [[hand-of-radiance\|Hand of Radiance]]<br><br>           | Cantrip | No            | Instantaneous    | Con save           | 5 ft  | Each creature of my choice within a 5ft radius |
+| [[inflict-wounds\|Inflict Wounds]]                       | 1st     | No            | Instantaneous    | Melee spell attack | Touch | Touch a creature and deal 3d10 necrotic damage |
+| [[detect-poison-and-disease\|Detect Poison and Disease]] | 1st     | Yes           | up to 10 minutes | None               | 30ft  | Detect all Poison and Disease within 30ft      |
+| [[cure-wounds\|Cure Wounds]]                             | 1st     | No            | Instantaneous    | None               | Touch | Heal a creature for 1d8+spell casting          |
+
 
 # Abilities
 ## [[cleric|Cleric]]; [[cleric-death-domain|Death Domain]]
