@@ -158,7 +158,7 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 | -------------------------------------------------------- | ------- | ------------- | ---------------- | ------------------ | ----- | -------------------------------------------------- |
 | [[toll-the-dead-xge\|Toll the Dead]]                     | Cantrip | No            | Instantaneous    | Wis save           | 60 ft | 1 creature or 2 if within 5ft                      |
 | [[thaumaturgy\|Thaumaturgy]]                             | Cantrip | No            | Up to 1 minute   | None               | 30 ft | Roleplay and flare                                 |
-| [[hand-of-radiance\|Hand of Radiance]]<br><br>           | Cantrip | No            | Instantaneous    | Con save           | 5 ft  | Each creature of my choice within a 5ft radius     |
+| [[hand-of-radiance-uassp\|Hand of Radiance]]<br><br>     | Cantrip | No            | Instantaneous    | Con save           | 5 ft  | Each creature of my choice within a 5ft radius     |
 | [[inflict-wounds\|Inflict Wounds]]                       | 1st     | No            | Instantaneous    | Melee spell attack | Touch | Touch a creature and deal 3d10 necrotic damage     |
 | [[detect-poison-and-disease\|Detect Poison and Disease]] | 1st     | Yes           | up to 10 minutes | None               | 30ft  | Detect all Poison and Disease within 30ft          |
 | [[cure-wounds\|Cure Wounds]]                             | 1st     | No            | Instantaneous    | None               | Touch | Heal a creature for 1d8+spell casting              |
@@ -205,7 +205,7 @@ When the cleric hits a creature with a melee attack, the cleric can use Channel 
 Beginning at 1st level, while you are wearing no armor and not wielding a shield, **your AC equals 10 + your Dexterity modifier + your Wisdom modifier.**
 
 ---
-	###### [[monk#Martial Arts (Level 1)|Martial Arts]]
+###### [[monk#Martial Arts (Level 1)|Martial Arts]]
 Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [shortswords](app://obsidian.md/compendium/items/shortsword.md) and any simple melee weapons that don't have the two-handed or heavy property.
 
 You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [shield](app://obsidian.md/compendium/items/shield.md).
@@ -237,8 +237,8 @@ CP | SP | EP | GP | PP |
 	- [[tinderbox|Tinderbox]] 2x
 	- [[torch]] 13x
 
-- [[compendium/items/explorers-pack|Explorer's Pack]]
-	- [[compendium/items/backpack]]
+- [[explorers-pack|Explorer's Pack]]
+	- [[backpack|Backpack]]
 	- [[bedroll]]
 	- [[mess-kit]]
 	- [[rations-1-day|Rations (1 day)]] 10x
@@ -249,7 +249,7 @@ CP | SP | EP | GP | PP |
 - [[sickle]]
 - [[dagger]]
 - [[leather-armor|Leather Armor]]
-- [[z_compendium/items/shield|shield]]
+- [[2. Mechanics/CLI/items/shield|Shield]]
 
 
 # Personality
