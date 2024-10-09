@@ -12,7 +12,7 @@ text: DM Screen
 ## Players
 ```dataview
 table Player, Class, Race, level, Role
-from "1. Players/Spelljammer"
+from "z_published files/1. Players/Spelljammer"
 where (Role = "Player") 
 where (Status = "Active") 
 ```
