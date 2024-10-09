@@ -164,7 +164,11 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 | [[cure-wounds\|Cure Wounds]]                             | 1st     | No            | Instantaneous    | None               | Touch | Heal a creature for 1d8+spell casting              |
 | [[command\|Command]]                                     | 1st     | No            | 1 round          | Wis save           | 60ft  | Issue a non-harmful one word command to a creature |
 
-
+---
+#### Cleric Spell List
+```custom-frames
+frame: Cleric Spell List
+```
 # Abilities
 ## [[cleric|Cleric]]; [[cleric-death-domain|Death Domain]]
 ##### Level 1
