@@ -263,3 +263,34 @@ CP | SP | EP | GP | PP |
 The doctor was once a respected physician and scholar in their homeland, dedicated to the study of life and death. They believed that the soul could be purified through the body, and that death was simply an imbalance, a disease that could be cured. This obsession led them down a dark path, experimenting with forbidden practices in search of the elusive cure for mortality. When they finally achieved what they thought was success, their body decayed but did not die, leaving them in a state of rebirth—neither fully alive nor truly dead.
 
 --- 
+
+# Roleplaying Notes
+## Spells
+### Toll the Dead
+**Visual Description:** When you cast _Toll the Dead_, an ancient, ghostly bell rings out, its tone low and resonant. The air around the target grows cold, and spectral hands seem to rise from the ground beneath them, as though death is pulling at their soul. The sound echoes like a distant funeral knell, tugging at the target's very life force.
+
+---
+### Thaumaturgy
+**Visual Description:** As you cast _Thaumaturgy_, your voice deepens with an eerie echo, reminiscent of something not quite alive. The ground trembles faintly, and nearby lights flicker or dim, as though responding to an unseen, otherworldly presence. Shadows lengthen unnaturally around you, hinting at the thin veil between life and death.
+
+---
+### Hand of Radiance
+**Visual Description:** Your _Hand of Radiance_ manifests as glowing skeletal hands that erupt from your body, each wreathed in pale, ghostly fire. As they reach out, they burn not with warmth, but with the cold radiance of the grave, each strike pulling vitality from the target as though it’s being judged by death itself.
+
+---
+### Inflict Wounds
+**Visual Description:** When you touch the target for _Inflict Wounds_, the skin blackens and cracks beneath your hand, the flesh appearing to rot away in real-time. Faint whispers of the dead seem to swirl around you as the life force is violently drained from the target, leaving behind necrotic scars as though they’ve been touched by death’s own hand.
+
+---
+### Detect Poison and Disease
+**Visual Description:** As you cast _Detect Poison and Disease_, your eyes briefly glow with a sickly green hue, allowing you to perceive the festering rot and corruption in the air. A thin mist appears to rise from anything poisoned or diseased, like a toxic vapor visible only to you, highlighting the sickly aura of decay emanating from the afflicted.
+
+---
+### Cure Wounds
+**Visual Description:** The process of _Cure Wounds_ begins with a brief, necrotic glow around the wound, the skin blackening as if decomposing. But in the next moment, the dead flesh is sloughed off, revealing newly regenerated tissue beneath. The healing feels unnatural, as if the body is being forcibly reconstructed rather than naturally mended.
+
+---
+### Command
+**Visual Description:** When you cast _Command_, your voice carries an unnatural authority, as though it echoes from beyond the grave. The air around the target grows heavy, and their will falters momentarily, as if they are hearing the decree of death itself. A faint shadow flickers behind you, hinting at the power you’ve tapped into to enforce your will.
+
+---
