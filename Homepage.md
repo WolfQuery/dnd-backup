@@ -3,6 +3,8 @@ dg-home: true
 dg-publish: true
 ---
 
+[[DoctorNew]]
+
 # Spelljammer
 *Player*
 ```dataview

@@ -1,19 +1,9 @@
 ---
-dg-publish: true
-Player: Mun
-Class: Cleric Monk
-Race: Reborn
-Level: 2
-hp: 9
-ac: 16
-modifier: 3
-pasperc: 14
-speed: 30ft
-Role: Player
+dg-pubish: true
 Status: Active
-PlayerKnownLanguages: Common,Abyssal,Sylvan
-tags:
+Role: Player
 ---
+
 # Julien du Dernier Souffl
 > SCP-049
 > gender: agender; Otherkin
