@@ -19,6 +19,7 @@ tags:
 > gender: agender; Otherkin
 > pronouns: They/Them/It/Its
 > orientation: aro/ace
+> ethics: who cares about those
 
 ![[Doctor.jpg]]
 
