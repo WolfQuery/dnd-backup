@@ -1,6 +1,7 @@
 ---
+dg-publish: true
 Player: Mun
-Class: Cleric,Monk
+Class: Cleric Monk
 Race: Reborn
 Level: 2
 hp: 9
@@ -11,26 +12,15 @@ speed: 30ft
 Role: Player
 Status: Active
 PlayerKnownLanguages: Common,Abyssal,Sylvan
-tags: null
-dg-publish: true
+tags: 
 ---
-
-%%
-
-Creator:: Marek
-Universe:: [[Spelljammer]]
-Campaign:: [[Spelljammer]]
-Adventure_Diary:: [[Doctor's Notes]]
-
-%%
-
 # Julien du Dernier Souffl
-> (Description:: SCP-049)
+> SCP-049
 > gender: agender; Otherkin
 > pronouns: They/Them/It/Its
 > orientation: aro/ace
 
-![[Doctor.jpg]] <i>[]()</i>
+![[Doctor.jpg]]
 
 ||
 ----|:---:|
