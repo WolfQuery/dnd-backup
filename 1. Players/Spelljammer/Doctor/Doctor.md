@@ -15,7 +15,6 @@ PlayerKnownLanguages: Common,Abyssal,Sylvan
 tags:
 ---
 # Julien du Dernier Souffl
-> SCP-049
 > gender: agender; Otherkin
 > pronouns: They/Them/It/Its
 > orientation: aro/ace
