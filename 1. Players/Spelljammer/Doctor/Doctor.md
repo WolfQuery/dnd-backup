@@ -1,5 +1,5 @@
 ---
-dg-publish: true
+dg-publish: false
 Player: Mun
 Class: Cleric Monk
 Race: Reborn
@@ -82,8 +82,17 @@ Senses | \# |
 
 # Traits
 --- 
-##### Knowledge from a Past Life
-You temporarily remember sporadic glimpses of the past, perhaps faded memories from your previous life or cryptic knowledge from being returned to life. When you make an ability check that uses a skill, **you can roll a d6 and add the number rolled to the check**. **You can use this feature a number of times equal to your proficiency bonus**, and you regain all expended uses when you finish a long rest.
+##### [[reborn-vrgr#Deathless Nature|Deathless Nature]]
+You have escaped death, a fact represented by the following benefits:
+
+- You have advantage on saving throws against disease and being [poisoned](app://obsidian.md/2.%20Mechanics/CLI/rules/conditions.md#poisoned), and you have resistance to poison damage.
+- You have advantage on death saving throws.
+- You don't need to eat, drink, or breathe.
+- You don't need to sleep, and magic can't put you to sleep. You can finish a long rest in 4 hours if you spend those hours in an inactive, motionless state, during which you retain consciousness.
+
+---
+##### [[reborn-vrgr#Knowledge from a Past Life|Knowledge from a Past Life]]
+You temporarily remember glimpses of the past, perhaps faded memories from ages ago or a previous life. When you make an ability check that uses a skill, you can roll a `dice: d6|avg|noform` (`d6`) immediately after seeing the number on the `dice: d20|avg|noform` (`d20`) and add the number on the `dice: d6|avg|noform` (`d6`) to the check. You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ---
 
