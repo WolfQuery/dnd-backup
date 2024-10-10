@@ -115,16 +115,16 @@ You temporarily remember glimpses of the past, perhaps faded memories from ages 
 
 # Actions
 
-| Attack                       | Attack Roll      | Damage          | Type of Damage |
-| ---------------------------- | ---------------- | --------------- | -------------- |
-| [[sickle\|Sickle]]           | `dice: 1d20 + 6` | `dice: 1d4 + 4` | Slashing       |
-| [[glaive\|Scythe]]           | `dice: 1d20 +6`  | `dice: 1d10+4`  | Slashing       |
-| [[dagger\|Dagger]] (offhand) | `dice: 1d20 + 6` | `dice: 1d4`     | Piercing       |
-| [[dagger\|Dagger]]           | `dice: 1d20 + 6` | `dice: 1d4 + 4` | Slashing       |
-| Unarmed Strike               | `dice: 1d20 + 6` | `dice: 1d4+4`   | Bludgeoning    |
-| Spell Attack                 | `dice: 1d20+5`   | XXX             | XXX            |
-| Spell Save                   | **13**           | XXX             | XXX            |
-| Spell modifier               | (Wis) +3         |                 |                |
+| Attack                                                      | Attack Roll      | Damage          | Type of Damage |
+| ----------------------------------------------------------- | ---------------- | --------------- | -------------- |
+| [[sickle\|Sickle]]                                          | `dice: 1d20 + 6` | `dice: 1d4 + 4` | Slashing       |
+| [[scythe-of-the-doctor(homebrew)\|Scythe of the Shadowns]] | `dice: 1d20 +6`  | `dice: 1d10+4`  | Slashing       |
+| [[dagger\|Dagger]] (offhand)                                | `dice: 1d20 + 6` | `dice: 1d4`     | Piercing       |
+| [[dagger\|Dagger]]                                          | `dice: 1d20 + 6` | `dice: 1d4 + 4` | Slashing       |
+| Unarmed Strike                                              | `dice: 1d20 + 6` | `dice: 1d4+4`   | Bludgeoning    |
+| Spell Attack                                                | `dice: 1d20+5`   | XXX             | XXX            |
+| Spell Save                                                  | **13**           | XXX             | XXX            |
+| Spell modifier                                              | (Wis) +3         |                 |                |
 
 ##### Ki 
 **(0/0)**
