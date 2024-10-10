@@ -1,52 +1,42 @@
 ---
-Player:
-  - Marek
-Class:
-  - Artificer
-Race:
-  - Autognome
-Level:
-  - 2
-hp:
-  - 9
-ac:
-  - 16
-modifier:
-  - 3
-pasperc:
-  - 14
+Player: Marek
+Class: Artificer
+Race: Autognome
+Level: 2
+hp: 9
+ac: 16
+modifier: 3
+pasperc: 14
 speed: 30ft
 Role: Player
 Status: Active
-PlayerKnownLanguages:
-  - Common
-  - Gnomish
-  - Python
-tags:
+PlayerKnownLanguages: Common,Gnomish,Python
+tags: null
+dg-publish: true
 ---
 
 %%
 
-Creator:: [[Mun]]
+Creator:: Marek
 Universe:: [[Spelljammer]]
 Campaign:: [[Spelljammer]]
-Adventure_Diary:: [[Doctor's Notes]]
+Adventure_Diary:: [[XXX]]
 
 %%
 
-# Julien du Dernier Souffl
-> (Description:: SCP-049)
-> gender: unknown
-> pronouns: They/Them/It/Its
+# Artificer
+> (Description:: Autognome artificer)
+> gender: male?
+> pronouns: He/Him
 
-![[Doctor.jpg]] <i>[]()</i>
+![[ImagePlaceholder.png]] <i>[]()</i>
 
 ||
 ----|:---:|
 **Class** | Artificer
 **Level** | 2
-	**Race** | Autognome
-**Alignment** | Chaotic Neutral
+**Race** | Autognome
+**Alignment** | Chaotic Good
 **Background** | Spy
 
 ---
