@@ -23,7 +23,7 @@ tags:
 > orientation: aro/ace
 > ethics: who cares about those
 
-![[Doctor.jpg]]
+![[Doctor.png]]
 
 ||
 ----|:---:|
