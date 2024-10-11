@@ -10,9 +10,12 @@ pasperc: 14
 speed: 30ft
 Role: Player
 Status: Active
-PlayerKnownLanguages: Common,Gnomish,Python
+PlayerKnownLanguages:
+- Common
+- Gnomish
+- Python
 tags: null
-dg-publish: true
+dg-publish: false
 ---
 
 %%
