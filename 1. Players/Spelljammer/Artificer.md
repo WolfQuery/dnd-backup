@@ -39,7 +39,7 @@ Adventure_Diary:: [[XXX]]
 **Class** | Artificer
 **Level** | 2
 **Race** | Autognome
-**Alignment** | Chaotic Good
+**Alignment** | Neutral Evil
 **Background** | Spy
 
 ---
@@ -156,30 +156,12 @@ You temporarily remember sporadic glimpses of the past, perhaps faded memories f
 | Spell Name 12        | 4th   | Yes           | 1 minute | Str save | 60 ft | Short description of the spell 12  |
 
 # Abilities
-## [[cleric|Cleric]]; [[cleric-death-domain|Death Domain]]
+## [[artificer-tce|Artificer]]; [[artificer-artillerist-tce|Artillerist]]
 ##### Level 1
-###### [[cleric-death-domain#Reaper (Level 1)|Reaper]]
-At 1st level, the cleric learns one necromancy cantrip of his or her choice from any spell list. When the cleric casts **a necromancy cantrip that normally targets only one creature, the spell can instead target two creatures within range and within 5 feet of each other.**
 
 ---
-## [[monk|Monk]]; Mercy Killer
-##### Level 1
-###### [[monk#Unarmored Defense (Level 1)|Unarmored Defense]]
-Beginning at 1st level, while you are wearing no armor and not wielding a shield, **your AC equals 10 + your Dexterity modifier + your Wisdom modifier.**
 
----
-###### [[monk#Martial Arts (Level 1)|Martial Arts]]
-Your practice of martial arts gives you mastery of combat styles that use unarmed strikes and monk weapons, which are [shortswords](app://obsidian.md/compendium/items/shortsword.md) and any simple melee weapons that don't have the two-handed or heavy property.
 
-You gain the following benefits while you are unarmed or wielding only monk weapons and you aren't wearing armor or wielding a [shield](app://obsidian.md/compendium/items/shield.md).
-
-- You can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes and monk weapons.
-- You can roll a `d4` in place of the normal damage of your unarmed strike or monk weapon. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
-- When you use the [Attack](app://obsidian.md/rules/actions.md#Attack) action with an unarmed strike or a monk weapon on your turn, you can make one unarmed strike as a bonus action. For example, if you take the [Attack](app://obsidian.md/rules/actions.md#Attack) action and attack with a quarterstaff, you can also make an unarmed strike as a bonus action, assuming you haven't already taken a bonus action this turn.
-
-Certain monasteries use specialized forms of the monk weapons. For example, you might use a club that is two lengths of wood connected by a short chain (called a nunchaku) or a sickle with a shorter, straighter blade (called a kama).
-
----
 
 # Equipment
 CP | SP | EP | GP | PP |

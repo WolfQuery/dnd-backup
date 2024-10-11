@@ -4,8 +4,8 @@ Player: Mun
 Class: Cleric Monk
 Race: Reborn
 Level: 2
-hp: 9
-ac: 16
+hp: 16
+ac: 17
 modifier: 3
 pasperc: 14
 speed: 30ft
@@ -54,34 +54,34 @@ Senses | \# |
 ### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| `dice: 1d20-1` -1(8) |`dice: 1d20+3` +3(17) |`dice: 1d20+1` +1(+13) |`dice: 1d20+1` +1(12) |`dice: 1d20+3` +3(17) |`dice: 1d20+0` +0(10) |
+| `dice: 1d20+0` +0(10) |`dice: 1d20+2` +2(14) |`dice: 1d20+2` +2(14) |`dice: 1d20+0` +0(11) |`dice: 1d20+5` +5(20) |`dice: 1d20+0` +0(11) |
 
 ### Saving Throw
 | STR | DEX | CON | INT | WIS | CHA |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| `dice: 1d20+2` +2 | `dice: 1d20+6` +6| `dice: 1d20+1` +1| `dice: 1d20+1` +1| `dice: 1d20+6` +6| `dice: 1d20+3` +3|
+| `dice: 1d20+2` +2 | `dice: 1d20+4` +4| `dice: 1d20+2` +2| `dice: 1d20+0` +0| `dice: 1d20+7` +7| `dice: 1d20+2` +2|
 
 ### Skills
 \# | Skill | Ability |
 :--:|-----|:------:|
-+6| Acrobatics | DEX |
-+3| Animal Handling | WIS |
-+3| Arcana | INT |
--1| Athletics | STR |
-+0| Deception | CHA |
-+1| History | INT |
-+6| Insight | WIS |
-+0| Intimidation | CHA |
++4| Acrobatics | DEX |
++5| Animal Handling | WIS |
++2| Arcana | INT |
++0| Athletics | STR |
++4| Deception | CHA |
++0| History | INT |
++7| Insight | WIS |
++2| Intimidation | CHA |
 +1| Investigation | INT |
-+6| Medicine | WIS |
-+1| Nature | WIS |
-+3| Perception | WIS |
-+0| Performance | CHA |
-+3| Persuasion | CHA |
-+1| Religion | INT |
-+3| Sleight of Hand | DEX |
++7| Medicine | WIS |
++5| Nature | WIS |
++7| Perception | WIS |
++2| Performance | CHA |
++4| Persuasion | CHA |
++0| Religion | INT |
++4| Sleight of Hand | DEX |
 +6| Stealth | DEX |
-+6| Survival | WIS |
++7| Survival | WIS |
 
 # Traits
 --- 
