@@ -62,3 +62,6 @@ The **Anchorblade** feels dense and powerful in hand, with the weight of the oce
 - The weapon's number of charges increases to **6**.
 
 **Abyssal Current (3 charges)**: As a **bonus action**, you can slam the Anchorblade into the ground, creating a **30-foot-long, 10-foot-wide stream of rushing water**. The current persists for **1 minute**. Any creature that starts its turn within the stream or enters it for the first time on its turn must succeed on a **Strength saving throw** (DC equals your spell save DC) or be **swept 10 feet** in the direction of the current. You and your allies are unaffected and gain **10 feet of additional movement** while within the current.
+
+
+*Source: Mun's Homebrew*
