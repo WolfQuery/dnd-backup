@@ -23,7 +23,7 @@ _Melee Weapon; rare; requires attunement_
 - **Cost**: ???
 - **Weight**: 2.0 lbs.
 
-In compact form, the Scythe functions and appears as a mundane sickle, not displaying any magical properties. (A **Detect Magic** spell reveals the sickle to be shrouded in a veil of necrotic and transmutative magic.) The wielder must target the spell with a spell from the School of Necromancy; the sickle darkens as shadows coil around it and elongates into a massive two-handed scythe, with a blade that seems to drink in the light. Each time the scythe swings, the bell tolls faintly, as though death itself follows in its wake. Once the Scythe transforms this way, it remains in its expanded state for up to an hour or until dismissed as an action.
+In compact form, the Scythe functions and appears as a mundane sickle, not displaying any magical properties. (A [[detect-magic|Detect Magic]] Spell reveals the sickle to be shrouded in a veil of necrotic and transmutative magic.) The wielder must target the spell with a spell from the School of Necromancy; the sickle darkens as shadows coil around it and elongates into a massive two-handed scythe, with a blade that seems to drink in the light. Each time the scythe swings, the bell tolls faintly, as though death itself follows in its wake. Once the Scythe transforms this way, it remains in its expanded state for up to an hour or until dismissed as an action.
 
 ### Expanded
 
@@ -31,6 +31,8 @@ In compact form, the Scythe functions and appears as a mundane sickle, not displ
 - **Properties**: [Heavy](2.%20Mechanics/CLI/rules/item-properties.md#Heavy), Martial, [Two-handed](2.%20Mechanics/CLI/rules/item-properties.md#Two-handed)
 - **Cost**: ???
 - **Weight**: 6.0 lbs.
+
+*When expanded, all bright light within 60ft of the Scythe becomes dim light.*
 
 ---
 
