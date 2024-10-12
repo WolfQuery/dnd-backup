@@ -1,3 +1,6 @@
+# Signature Weapons
+
+
 ---
 obsidianUIMode: preview
 cssclasses:
@@ -15,14 +18,17 @@ aliases:
 
 ## Small
 - **Damage**:
-  - One-handed: 1d4 B
-  - Two-handed: 1d6 B
+  - One-handed: 1d6 B
+  - Two-handed: 1d8 B
 - **Properties**: [Versatile](2.%20Mechanics/CLI/rules/item-properties.md#Versatile)
 - **Cost**: ???
 - **Weight**: 4.0 lbs.
 
 *Source: Player's Handbook p. 149. Available in the SRD and the Basic Rules.*
 ## BIG
-- **Damage:** 1d8 B
+- **Damage:** 2d4 B
 - **Properties:** [[item-properties#Heavy|Heavy]], [[item-properties#Two-Handed|Two-Handed]]
+- **Weight:** 6.0 lbs.
+
+
 
