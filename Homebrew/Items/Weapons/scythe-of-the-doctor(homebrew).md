@@ -3,11 +3,12 @@ obsidianUIMode: preview
 cssclasses:
   - json5e-item
 tags:
-  - item/property/heavy
   - item/property/martial
-  - item/property/reach
   - item/property/two-handed
   - item/weapon/martial/melee
+  - item/property/light
+  - item/rarity/unknown
+  - item/weapon/martial
 aliases:
   - Scythe of the Doctor
 ---
