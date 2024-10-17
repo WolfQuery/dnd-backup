@@ -1,25 +1,35 @@
 ---
-Player: Finn
-Class: Druid
-Race: Satyr
+Player:
+  - Finn
+Class:
+  - Druid
+Subclass: Circle of Stars
+Race: Symic-hybrid
+Age: 26
+Creature Type: Humanoid
+Size: Medium
 Level: 2
-hp: 10
-ac: 12
-modifier: 3
+hp: 22
+max hp: 22
+ac: 16
+modifier: 2
 pasperc: 15
 speed: 30ft
 Role: Player
 Status: Active
 PlayerKnownLanguages:
   - Common
+  - Vedalken
+  - Druidic
+  - Primordial
 tags:
 ---
 ´´´
 %%
 
 Creator:: [[Finn]]
-Universe:: [[Spelljammer]]
-Campaign:: [[Spelljammer]]
+Universe:: [[Colonies of Graevil]]
+Campaign:: [[Colonies of Graevil]]
 Adventure_Diary:: [[XXX]]
 
 %%
@@ -27,30 +37,30 @@ Adventure_Diary:: [[XXX]]
 # Varsi Kossuth
 > (Description:: )
 
-![[Varsi Kossuth_portrait.jpg]] <i>[]()</i>
+![[ImagePlaceholder.png]]) <i>[]()</i>
 
 ||
 ----|:---:|
 	**Class** | Druid
 **Level** | 2
-**Race** | Satyr
-**Alignment** | Chaotic Good
+**Race** | Symic-Hybrid
+**Alignment** | Chaotic Neutral
 **Background** | XXX
 
 ---
 
 # Stats
-HP | AC | Speed | Initiative |
-:---:|:---:|:---:|:---:|
-|<<Hit Points>>|<<Armor Class>>|<<Speed>>|<<Initiative>>
+| HP  | AC  | Speed | Initiative |
+| :-: | :-: | :---: | :--------: |
+| 22  | 16  | 30ft  |     +2     |
 
-Hit Dice | Proficiency Bonus | Temp HP | 
-:---:|:---:|:---:|
-|<<Hit Dice>>|<<Proficiency Bonus>>|
+| Hit Dice | Proficiency Bonus | Temp HP |
+| :------: | :---------------: | :-----: |
+|   1d8    |        +2         |    X    |
 
-Senses | \# |
----|---|
-**Passive Perception** |<<Passive Perception>>|
+| Senses | \#  |
+| ------ | --- |
+|**Passive Perception** |<<Passive Perception>>|
 
 ---
 
