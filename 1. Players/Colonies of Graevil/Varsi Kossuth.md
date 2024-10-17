@@ -1,20 +1,12 @@
 ---
-Player:
-  - Finn
-Class:
-  - Druid
-Race:
-  - Satyr
-Level:
-  - 2
-hp:
-  - 10
-ac:
-  - 12
-modifier:
-  - 3
-pasperc:
-  - 15
+Player: Finn
+Class: Druid
+Race: Satyr
+Level: 2
+hp: 10
+ac: 12
+modifier: 3
+pasperc: 15
 speed: 30ft
 Role: Player
 Status: Active
