@@ -5,8 +5,8 @@ banner_lock: true
 text: DM Screen
 ---
 | ![[Sky Chart.jpg\|center+wsmall+hsmall]] | ![[Imagename2.png\|hsmall+wsmall+center]] | ![[Imagename3.png\|hsmall+wsmall+center]] | ![[Imagename4.png\|hsmall+wsmall+center]] |     |
-| ------------------ | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | --- |
-| [[Map]]      | [[Sess]]                             | [[Notename3]]                             | [[Notename4\|Rename Note Name]]           |     |
+| ---------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | --- |
+| [[Map]]                                  | [[Sess]]                                  | [[Notename3]]                             | [[Notename4\|Rename Note Name]]           |     |
 
 # DM screen
 ## Players
