@@ -4,24 +4,29 @@ banner_y: 0.38
 banner_lock: true
 text: DM Screen
 ---
-| ![[Sky Chart.jpg\|center+wsmall+hsmall]] | ![[Imagename2.png\|hsmall+wsmall+center]] | ![[Imagename3.png\|hsmall+wsmall+center]] | ![[Imagename4.png\|hsmall+wsmall+center]] |     |
-| ---------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | --- |
-| [[Map]]                                  | [[Sess]]                                  | [[Notename3]]                             | [[Notename4\|Rename Note Name]]           |     |
+| ![[Sky Chart.jpg | 248]]    | ![[Imagename2.png\|hsmall+wsmall+center]] | ![[Imagename3.png\|hsmall+wsmall+center]] | ![[Imagename4.png\|hsmall+wsmall+center]] |     |
+| ---------------- | -------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | --- |
+| [[Map]]          | [[Sess]] | [[Notename3]]                             | [[Notename4\|Rename Note Name]]           |                                           |     |
 
 # DM screen
 ## Players
 ```dataview
 table Player, Class, Race, level, Role
-from "z_published files/1. Players/Spelljammer"
+from "z_published files/1. Players/Colonies of Graevil"
 where (Role = "Player") 
 where (Status = "Active") 
 ```
 
 ### Known languages by party
 ```dataviewjs
-dv.list(dv.pages()
-		.where(p => p.Status && p.Status.includes("Active") && p.Role && p.Role.includes("Player"))
-		.PlayerKnownLanguages.distinct())
+let languages = dv.pages('"z_published files/1. Players/Colonies of Graevil"')  // Specify the folder or file path here
+    .where(p => p.Status && p.Status.includes("Active") && p.Role && p.Role.includes("Player"))
+    .map(p => p.PlayerKnownLanguages)
+    .array()  // Convert to a standard array
+    .flat();  // Flatten the array
+
+dv.list([...new Set(languages)]);  // Use Set to ensure distinct values
+
 ```
 
 ## Players Combat info
