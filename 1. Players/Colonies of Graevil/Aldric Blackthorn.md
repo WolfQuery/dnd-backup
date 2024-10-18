@@ -21,8 +21,8 @@ dg-publish: false
 %%
 
 Creator:: Marek
-Universe:: [[Spelljammer]]
-Campaign:: [[Spelljammer]]
+Universe:: [[Colonies of Graevil]]
+Campaign:: [[Colonies of Graevil]]
 Adventure_Diary:: [[XXX]]
 
 %%

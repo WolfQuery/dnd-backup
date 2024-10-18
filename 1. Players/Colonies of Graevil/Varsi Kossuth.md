@@ -67,18 +67,18 @@ Adventure_Diary:: [[XXX]]
 ## Abilities
 ### Abilities
 | STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <<Strength>> | <<Dexterity>> | <<Constitution>> | <<Intelligence>> | <<Wisdom>> | <<Charisma>> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| 14  | 15  | 18  | 12  | 15  | 18  |
 
 ### Modifier
 | STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <<Strength Modifier>> | <<Dexterity Modifier>> | <<Constitution Modifier>> | <<Intelligence Modifier>> | <<Wisdom Modifier>> | <<Charisma Modifier>> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| +4  | +2  | +4  | +1  | +2  | +4  |
 
 ### Saving Throw
 | STR | DEX | CON | INT | WIS | CHA |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <<Strength Saving Throw>> | <<Dexterity Saving Throw>> | <<Constitution Saving Throw>> | <<Intelligence Saving Throw>> | <<Wisdom Saving Throw>> | <<Charisma Saving Throw>> |
+| :-: | :-: | :-: | :-: | :-: | :-: |
+| +2  | +2  | +4  | +3  | +2  | +6  |
 
 ### Skills
 \# | Skill | Ability |
